@@ -52,4 +52,3 @@ Please use this script responsibly and ethically. Deepfake technology can be mis
 
 This project is licensed under the [MIT License](LICENSE).
 
-👍 Please visit https://digitalprofits7.com/aitools for more great free AI tools you are sure to like. 🤖
